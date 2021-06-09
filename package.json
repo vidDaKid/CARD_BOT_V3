@@ -1,0 +1,24 @@
+{
+  "name": "CARD_BOT_V3",
+  "version": "1.0.0",
+  "description": "In Production... [ETA June 18]",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vidDaKid/CARD_BOT_V3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vidDaKid/CARD_BOT_V3/issues"
+  },
+  "homepage": "https://github.com/vidDaKid/CARD_BOT_V3#readme",
+  "dependencies": {
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
